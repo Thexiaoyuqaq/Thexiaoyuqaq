@@ -43,8 +43,6 @@ const 小雨 = {
 </td>
 <td width="50%">
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
 #### 当前状态
 
 - 正在学习新技术
@@ -56,7 +54,6 @@ const 小雨 = {
 </td>
 </tr>
 </table>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 技术栈
@@ -169,20 +166,12 @@ const 小雨 = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=180&section=footer&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=35&duration=3000&pause=1000&color=FF9966&center=true&vCenter=true&width=600&lines=感谢你的来访呀~;记得给项目点个+Star+哦!;一起变得更强吧!;愿你今天也元气满满!+" alt="Thanks" />
-
-<br/>
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="15%">
-
 <br/><br/>
 
 ---
 
 <br/>
 
-<sub>Made with 💖 by 小雨 | Last updated: 2024</sub>
+<sub>Made with 💖 by 小雨 | Last updated: 2025</sub>
 
 </div>
