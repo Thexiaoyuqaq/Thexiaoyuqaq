@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFE3EC,45:FFD6A5,100:BDE0FE&text=Hi%2C%20%E6%88%91%E6%98%AF%E5%B0%8F%E9%9B%A8&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Thexiaoyuqaq%20%7C%20Cute%20Coding%20Space&descSize=18&descAlignY=60" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFE3EC,45:FFD6A5,100:BDE0FE&text=Hi%2C%20%E6%88%91%E6%98%AF%E5%B0%8F%E9%9B%A8&fontSize=54&fontColor=D9467C&animation=fadeIn&fontAlignY=38&desc=Thexiaoyuqaq%20%7C%20Cute%20Coding%20Space&descSize=18&descAlignY=60&descColor=7C3AED" alt="header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=24&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=620&height=58&lines=%E7%88%B1%E6%8A%98%E8%85%BE%E7%9A%84%E4%BB%A3%E7%A0%81%E8%90%8C%E6%96%B0;%E5%9C%A8%E5%BC%80%E6%BA%90%E4%B8%96%E7%95%8C%E9%87%8C%E6%85%A2%E6%85%A2%E5%8F%98%E5%BC%BA;%E5%96%9C%E6%AC%A2%E6%8A%8A%E9%A1%B9%E7%9B%AE%E5%81%9A%E5%BE%97%E6%9B%B4%E5%A5%BD%E7%9C%8B" alt="typing" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Thexiaoyuqaq&style=flat-square&color=ff8fab&label=Profile+Views)](https://github.com/Thexiaoyuqaq)
-[![Followers](https://img.shields.io/github/followers/Thexiaoyuqaq?style=flat-square&logo=github&label=Followers&labelColor=fff0f6&color=ff8fab)](https://github.com/Thexiaoyuqaq)
+[![Followers](https://img.shields.io/github/followers/Thexiaoyuqaq?style=flat-square&logo=github&label=%E5%B0%8F%E4%BC%99%E4%BC%B4&labelColor=FFD6E7&color=FF8FAB)](https://github.com/Thexiaoyuqaq)
 [![BiliBili](https://img.shields.io/badge/BiliBili-FF8FAB?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/226193288?spm_id_from=333.1007.0.0)
 [![MineBBS](https://img.shields.io/badge/MineBBS-FFB703?style=flat-square&logo=minecraft&logoColor=white)](https://www.minebbs.com/members/thexiaoyu.4149/)
 
@@ -47,14 +47,14 @@ const profile = {
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-CFFAFE?style=for-the-badge&logo=react&logoColor=0891B2)
-![Vue](https://img.shields.io/badge/Vue-E4F9E0?style=for-the-badge&logo=vue.js&logoColor=16A34A)
-![Next.js](https://img.shields.io/badge/Next.js-F5F5F5?style=for-the-badge&logo=next.js&logoColor=111111)
+![Vue](https://img.shields.io/badge/Vue-B7F7D4?style=for-the-badge&logo=vue.js&logoColor=047857)
+![Next.js](https://img.shields.io/badge/Next.js-D8B4FE?style=for-the-badge&logo=next.js&logoColor=581C87)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-BDE0FE?style=for-the-badge&logo=tailwind-css&logoColor=0284C7)
 
 **Backend & Tools**
 
 ![Node.js](https://img.shields.io/badge/Node.js-D9F99D?style=for-the-badge&logo=node.js&logoColor=15803D)
-![Express](https://img.shields.io/badge/Express-F5F5F5?style=for-the-badge&logo=express&logoColor=111111)
+![Express](https://img.shields.io/badge/Express-FBCFE8?style=for-the-badge&logo=express&logoColor=9D174D)
 ![MySQL](https://img.shields.io/badge/MySQL-DBEAFE?style=for-the-badge&logo=mysql&logoColor=1D4ED8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-DCFCE7?style=for-the-badge&logo=mongodb&logoColor=16A34A)
 ![Git](https://img.shields.io/badge/Git-FFE4E6?style=for-the-badge&logo=git&logoColor=E11D48)
