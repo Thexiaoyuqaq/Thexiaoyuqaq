@@ -1,177 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=200&section=header&text=Hi~%20我是小雨%20✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20cute%20coding%20world!&descSize=20&descAlignY=55" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFE3EC,45:FFD6A5,100:BDE0FE&text=Hi%2C%20%E6%88%91%E6%98%AF%E5%B0%8F%E9%9B%A8&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Thexiaoyuqaq%20%7C%20Cute%20Coding%20Space&descSize=18&descAlignY=60" alt="header" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=28&duration=3000&pause=1000&color=FF9966&center=true&vCenter=true&repeat=true&width=600&height=80&lines=爱折腾的代码小可爱;每天都在变强中;开源世界探索者;追求极致的完美主义" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=24&duration=2800&pause=900&color=FF8FAB&center=true&vCenter=true&width=620&height=58&lines=%E7%88%B1%E6%8A%98%E8%85%BE%E7%9A%84%E4%BB%A3%E7%A0%81%E8%90%8C%E6%96%B0;%E5%9C%A8%E5%BC%80%E6%BA%90%E4%B8%96%E7%95%8C%E9%87%8C%E6%85%A2%E6%85%A2%E5%8F%98%E5%BC%BA;%E5%96%9C%E6%AC%A2%E6%8A%8A%E9%A1%B9%E7%9B%AE%E5%81%9A%E5%BE%97%E6%9B%B4%E5%A5%BD%E7%9C%8B" alt="typing" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180"/>
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Thexiaoyuqaq&color=ff9966&style=for-the-badge&label=👁️+访问量)](https://github.com/Thexiaoyuqaq)
-[![GitHub Followers](https://img.shields.io/github/followers/Thexiaoyuqaq?style=for-the-badge&logo=github&label=粉丝&labelColor=FFF5E6&color=FF9966)](https://github.com/Thexiaoyuqaq)
+[![Profile Views](https://komarev.com/ghpvc/?username=Thexiaoyuqaq&style=flat-square&color=ff8fab&label=Profile+Views)](https://github.com/Thexiaoyuqaq)
+[![Followers](https://img.shields.io/github/followers/Thexiaoyuqaq?style=flat-square&logo=github&label=Followers&labelColor=fff0f6&color=ff8fab)](https://github.com/Thexiaoyuqaq)
+[![BiliBili](https://img.shields.io/badge/BiliBili-FF8FAB?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/226193288?spm_id_from=333.1007.0.0)
+[![MineBBS](https://img.shields.io/badge/MineBBS-FFB703?style=flat-square&logo=minecraft&logoColor=white)](https://www.minebbs.com/members/thexiaoyu.4149/)
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 关于我
 
-## 关于小雨
-
-<table>
-<tr>
-<td width="50%">
-
-```javascript
-const 小雨 = {
-    代号: "Thexiaoyuqaq",
-    身份: "代码萌新 | 开源爱好者",
-    现状: "努力学习ing...",
-    爱好: ["写代码", "做项目", "学新技术"],
-    目标: "成为厉害的开发者！",
-    座右铭: "今天也要元气满满呀~ ٩(๑❛ᴗ❛๑)۶"
+```ts
+const profile = {
+  name: "小雨",
+  username: "Thexiaoyuqaq",
+  identity: "代码萌新 / 开源爱好者 / Minecraft 玩家",
+  currently: "学习新技术，打磨项目体验，慢慢变强",
+  focus: ["前端体验", "后端服务", "开源项目", "实用工具"],
+  motto: "把喜欢的事情认真做好，每天进步一点点。"
 };
 ```
 
-</td>
-<td width="50%">
-
-#### 当前状态
-
-- 正在学习新技术
-- 每天进步一点点
-- 热爱探索新事物  
-- 享受代码的美感
-- 相信努力会发光
-
-</td>
-</tr>
-</table>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+| 正在打磨 | 喜欢探索 | 小目标 |
+| :---: | :---: | :---: |
+| 好用又好看的项目体验 | Minecraft / 工具开发 / 开源生态 | 写出更稳定、更优雅的代码 |
 
 ## 技术栈
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+**Languages**
 
-**编程语言**
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=3D3D3D)
+![TypeScript](https://img.shields.io/badge/TypeScript-BDE0FE?style=for-the-badge&logo=typescript&logoColor=2563EB)
+![Python](https://img.shields.io/badge/Python-CDEAC0?style=for-the-badge&logo=python&logoColor=2B5D34)
+![Java](https://img.shields.io/badge/Java-FFD6A5?style=for-the-badge&logo=openjdk&logoColor=8A4B08)
+![C++](https://img.shields.io/badge/C++-D8B4FE?style=for-the-badge&logo=cplusplus&logoColor=6D28D9)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFF5E6)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFFAF0)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FFE4CC)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=FFE4CC)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFD6A5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFCC99)
+**Frontend**
 
-</td>
-<td align="center" width="25%">
+![React](https://img.shields.io/badge/React-CFFAFE?style=for-the-badge&logo=react&logoColor=0891B2)
+![Vue](https://img.shields.io/badge/Vue-E4F9E0?style=for-the-badge&logo=vue.js&logoColor=16A34A)
+![Next.js](https://img.shields.io/badge/Next.js-F5F5F5?style=for-the-badge&logo=next.js&logoColor=111111)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-BDE0FE?style=for-the-badge&logo=tailwind-css&logoColor=0284C7)
 
-**前端框架**
+**Backend & Tools**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=FFF5E6)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=E8F5E9)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=FFE4CC)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=E0F2FE)
-
-</td>
-<td align="center" width="25%">
-
-**后端技术**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=E6F4EA)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=FFF5E6)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=E3F2FD)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=E8F5E9)
-
-</td>
-<td align="center" width="25%">
-
-**开发工具**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=FFFAF0)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=E3F2FD)
-
-</td>
-</tr>
-</table>
+![Node.js](https://img.shields.io/badge/Node.js-D9F99D?style=for-the-badge&logo=node.js&logoColor=15803D)
+![Express](https://img.shields.io/badge/Express-F5F5F5?style=for-the-badge&logo=express&logoColor=111111)
+![MySQL](https://img.shields.io/badge/MySQL-DBEAFE?style=for-the-badge&logo=mysql&logoColor=1D4ED8)
+![MongoDB](https://img.shields.io/badge/MongoDB-DCFCE7?style=for-the-badge&logo=mongodb&logoColor=16A34A)
+![Git](https://img.shields.io/badge/Git-FFE4E6?style=for-the-badge&logo=git&logoColor=E11D48)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-E0F2FE?style=for-the-badge&logo=visual-studio-code&logoColor=0284C7)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## GitHub 数据统计
+## GitHub 数据
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thexiaoyuqaq&show_icons=true&theme=default&bg_color=FFF5E6&title_color=FF9966&icon_color=FFB347&text_color=FF8C42&border_color=FFCC99&border_radius=20&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thexiaoyuqaq&theme=default&background=FFF5E6&ring=FF9966&fire=FFB347&currStreakLabel=FF8C42&sideLabels=FF9966&border=FFCC99&stroke=FFB347&border_radius=20" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thexiaoyuqaq&layout=compact&theme=default&bg_color=FFF5E6&title_color=FF9966&text_color=FF8C42&border_color=FFCC99&border_radius=20&hide=Jupyter%20Notebook" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thexiaoyuqaq&bg_color=FFF5E6&color=FF9966&line=FFB347&point=FF8C42&area=true&hide_border=false&custom_title=贡献活跃度&area_color=FFD6A5&radius=20" />
-
-</div>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thexiaoyuqaq&theme=github" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thexiaoyuqaq&theme=github" alt="Top languages" />
 
 <br/>
 
-<div align="center">
-
-### GitHub 成就墙
-
-![](https://github-profile-trophy.vercel.app/?username=Thexiaoyuqaq&theme=flat&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage)
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thexiaoyuqaq&bg_color=FFF7F0&color=FF8FAB&line=FFB703&point=FB7185&area=true&hide_border=true&custom_title=Contribution%20Garden&area_color=FFD6A5&radius=16" alt="Contribution graph" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 找到我
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-[![Bilibili](https://img.shields.io/badge/哔哩哔哩-FF9966?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=FFF5E6)](https://space.bilibili.com/226193288?spm_id_from=333.1007.0.0)
-
-**BiliBili**
-
-看视频找我玩~
-
-</td>
-<td align="center" width="33%">
-
-[![MineBBS](https://img.shields.io/badge/MineBBS-FFB347?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=FFF5E6)](https://www.minebbs.com/members/thexiaoyu.4149/)
-
-**MineBBS**
-
-一起玩MC吧！
-
-</td>
-</tr>
-</table>
-
-</div>
+[![BiliBili](https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-FF8FAB?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/226193288?spm_id_from=333.1007.0.0)
+[![MineBBS](https://img.shields.io/badge/MineBBS-FFB703?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minebbs.com/members/thexiaoyu.4149/)
 
 <br/>
 
-<div align="center">
-
-<br/><br/>
-
----
-
-<br/>
-
-<sub>Made with 💖 by 小雨 | Last updated: 2025</sub>
+<sub>Made with love by 小雨 · Last updated: 2026</sub>
 
 </div>
